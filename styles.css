@@ -6,8 +6,10 @@
 }
 
 body {
-    background-color:#374151;
-
+    background-image: url(kelli-mcclintock-wBgAVAGjzFg-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,6 +19,7 @@ body {
 .container {
     width: 500px;
     height: 400px;
+    
 }
 
 .header {
@@ -26,5 +29,13 @@ body {
 
 .header h2 {
     font-weight: 400;
-    color: white;
+    color: #374151
+    
+}
+
+.main-content {
+    width: 100%;
+    height: 300px;
+    padding: 50px 40px;
+    
 }
