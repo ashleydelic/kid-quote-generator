@@ -51,3 +51,11 @@ body {
     color:#374151;
     line-height: 1.5;
 }
+
+.main-content .author {
+    letter-spacing: 2px;
+    color: #6B7280;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
