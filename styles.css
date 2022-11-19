@@ -25,13 +25,12 @@ body {
 .header {
     text-align: center;
     margin-bottom: 50px;
+    
 }
 
 .header h2 {
     font-weight: 400;
     color: #374151;
-    
-    
 }
 
 .main-content {
@@ -41,6 +40,6 @@ body {
     margin-left: 300px;
     background-color: white;
     border-radius: 15px;
-    box-shadow: 0 25px 55px;
+    box-shadow: 0 25px 55px rgba(0, 0, 0, 0.5);
     
 }
