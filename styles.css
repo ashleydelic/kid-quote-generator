@@ -29,13 +29,18 @@ body {
 
 .header h2 {
     font-weight: 400;
-    color: #374151
+    color: #374151;
+    
     
 }
 
 .main-content {
-    width: 100%;
+    width: 50%;
     height: 300px;
     padding: 50px 40px;
+    margin-left: 300px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 25px 55px;
     
 }
