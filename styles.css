@@ -35,10 +35,9 @@ body {
 }
 
 .main-content {
-    width: 50%;
+    width: 100%;
     height: 300px;
     padding: 50px 40px;
-    margin-left: 400px;
     background-color: white;
     border-radius: 15px;
     box-shadow: 0 25px 55px rgba(0, 0, 0, 0.5);
