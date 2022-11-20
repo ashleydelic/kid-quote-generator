@@ -58,6 +58,4 @@ btn.addEventListener("click", function() {
     quote.innerHTML = quotes[random].quote;
 
     author.innerHTML = quotes[random].author;
-
-    
 })
