@@ -76,3 +76,9 @@ body {
     border: none;
     padding: 12px 15px;
 }
+
+.button-area .btn button:hover {
+    background-color:#002ead;
+      transition: 0.7s;
+}
+   
